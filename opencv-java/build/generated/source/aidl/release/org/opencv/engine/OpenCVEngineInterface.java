@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: /home/robotbase/github/NDK_OpenCV_AndroidStudio/opencv-java/src/main/aidl/org/opencv/engine/OpenCVEngineInterface.aidl
+ * Original file: /Users/gyb/Dev/code/sourcetree/NDK_OpenCV_AndroidStudio/opencv-java/src/main/aidl/org/opencv/engine/OpenCVEngineInterface.aidl
  */
 package org.opencv.engine;
 /**
